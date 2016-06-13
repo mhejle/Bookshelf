@@ -6,3 +6,5 @@ Master:
 Tremendously cool application to track all your read books throughout a lifetime.
 
 In color where available!
+
+Not so cool when it's not doing anything!!
